@@ -1,3 +1,7 @@
+# A calculator made with ReactJS
+
+Composed by a class component called Calculator and Button and Display which are functional components, so both are stateless.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
